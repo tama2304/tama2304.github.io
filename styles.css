@@ -1,0 +1,86 @@
+body {
+    background-color: #3e3bff;
+    text-align: center;
+}
+
+h1 {
+	font-family: 'Open Sans', sans-serif;	    
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+.intro, .project1, .project2, .project3, .contacts {
+	border: solid;    
+}
+    
+.intro {
+    background-color: #16acba;
+    height: 150px;
+    width: 720px;
+  	margin: auto;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+.project1 {
+    background-color: skyblue;
+    float: left;
+    height: 250px;
+    width: 300px;
+    margin: auto;
+    margin-right: 150px;
+}
+
+.project1 h2 {
+	font-family: 'Sansita Swashed', cursive;   
+}
+
+.project1 p {
+	font-family: 'Roboto', sans-serif;   
+}
+
+.project2 {
+    background-color: silver;
+    float: left;
+    height: auto;
+    width: 400px;
+    padding: 5px;
+    margin: auto;
+    margin-right: 150px;
+}
+
+.project2 h2 {
+    font-family: 'Goldman', cursive;
+}
+
+.project2 p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.project3 {
+    background-color: #71afb5;
+    float: left;
+    height: auto;
+    width: 300px;
+    margin: auto;
+}
+
+.project3 h2 {
+    font-family: 'Roboto', sans-serif;
+}
+    
+.project3 p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+}
+
+.contacts {
+    background-color: #daecd9;
+    height: 110px;
+    width: 500px;
+    margin: auto;
+    margin-top: 350px;
+}
